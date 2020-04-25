@@ -8,7 +8,7 @@ The objective is to learn about asynchronous programming in Dart. I have learn  
 ## What you will create
 I have created a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). I am able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App](https://github.com/dhanunda/vedios/blob/master/ezgif.com-gif-to-mp4%20(1).gif)
+![Finished App](https://github.com/dhanunda/vedios/blob/master/ezgif.com-video-to-gif.gif)
 
 ## What I have learn
 
