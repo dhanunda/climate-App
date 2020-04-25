@@ -10,6 +10,10 @@ I have created a weather app inspired by the beautiful designs made by [Olia Goz
 
 ![Finished App](https://github.com/dhanunda/vedios/blob/master/ezgif.com-video-to-gif.gif)
 
+## Download the apk
+
+https://drive.google.com/open?id=1pi5IamNJSGl8gGFFzKi42Nyc9WBRRHyG
+
 ## What I have learn
 
 - How to use Dart to perform asynchronous tasks.
