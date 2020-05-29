@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-The objective is to learn about asynchronous programming in Dart. I have learn  how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
+The objective is to learn about asynchronous programming in Dart. I have learn  how to carry out time consuming tasks such as getting device location and networking to get data from the internet
 
 
 ## What you will create
